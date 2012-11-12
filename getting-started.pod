@@ -1,3 +1,0 @@
-=head1 Getting Started
-
-Testing README symlink.

@@ -1,1 +1,3 @@
-getting-started.pod
+=head1 Getting Started
+
+Testing README symlink.
